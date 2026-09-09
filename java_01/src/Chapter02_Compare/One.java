@@ -1,4 +1,4 @@
-package Chapter02_Opetator;
+package Chapter02_Compare;
 
 public class One {
 
