@@ -1,4 +1,4 @@
-package Chapter02_condition;
+package Chapter03_condition;
 
 public class Else {
 
